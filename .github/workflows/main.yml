@@ -1,4 +1,4 @@
-name: deploy variableAndConst
+name: deploy Landingapps
 
 on:
   push:
